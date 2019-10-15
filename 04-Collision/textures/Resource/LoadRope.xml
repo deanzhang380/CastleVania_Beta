@@ -1,0 +1,71 @@
+<textures ID="30" filename="textures\\simon-belmont.png" Red="255" Green=" 255" Bule="255">
+   <!-- Rope level0 -->
+    <sprites left="339" top="226" right="400" bottom="258" Sprites_ID="10051"/>
+    <sprites left="406" top="226" right="466" bottom="258" Sprites_ID="10052"/>
+    <sprites left="452" top="226" right="513" bottom="258" Sprites_ID="10053"/>
+    <sprites left="651" top="226" right="713" bottom="258" Sprites_ID="10054"/>
+    <sprites left="586" top="226" right="646" bottom="258" Sprites_ID="10055"/>
+    <sprites left="540" top="226" right="601" bottom="258" Sprites_ID="10056"/>
+    <!-- Rope level 1 -->
+    <sprites left="339" top="466" right="400" bottom="498" Sprites_ID="10069"/>
+    <sprites left="406" top="466" right="466" bottom="498" Sprites_ID="10070"/>
+    <sprites left="452" top="466" right="513" bottom="498" Sprites_ID="10071"/>
+    <sprites left="672" top="466" right="733" bottom="498" Sprites_ID="10072"/>
+    <sprites left="606" top="466" right="667" bottom="498" Sprites_ID="10073"/>
+    <sprites left="565" top="466" right="625" bottom="498" Sprites_ID="10074"/>
+    <!-- Rope level 2 -->
+    <sprites left="339" top="274" right="400" bottom="306" Sprites_ID="10057"/>
+    <sprites left="406" top="274" right="466" bottom="306" Sprites_ID="10058"/>
+    <sprites left="452" top="274" right="530" bottom="306" Sprites_ID="10059"/>
+    <sprites left="658" top="300" right="735" bottom="332" Sprites_ID="10060"/>
+    <sprites left="567" top="300" right="646" bottom="332" Sprites_ID="10061"/>
+    <sprites left="522" top="300" right="601" bottom="332" Sprites_ID="10062"/>
+    <sprites left="339" top="338" right="400" bottom="370" Sprites_ID="10063"/>
+    <sprites left="406" top="338" right="466" bottom="370" Sprites_ID="10064"/>
+    <sprites left="452" top="338" right="530" bottom="370" Sprites_ID="10065"/>
+    <sprites left="339" top="405" right="400" bottom="437" Sprites_ID="10066"/>
+    <sprites left="406" top="405" right="466" bottom="437" Sprites_ID="10067"/>
+    <sprites left="452" top="405" right="530" bottom="437" Sprites_ID="10068"/>   
+</textures>
+
+<Canimation>
+    <animations default_time="100" animations_Id="511">
+        <ani ani_ID="10051"/>
+        <ani ani_ID="10052"/>
+        <ani ani_ID="10053"/>
+    </animations>
+    <animations default_time="100" animations_Id="512">
+        <ani ani_ID="10054"/>
+        <ani ani_ID="10055"/>
+        <ani ani_ID="10056"/>
+    </animations>
+     <animations default_time="100" animations_Id="515">
+        <ani ani_ID="10069"/>
+        <ani ani_ID="10070"/>
+        <ani ani_ID="10071"/>
+    </animations>
+    <animations default_time="100" animations_Id="516">
+        <ani ani_ID="10072"/>
+        <ani ani_ID="10073"/>
+        <ani ani_ID="10074"/>
+    </animations>
+     <animations default_time="100" animations_Id="513">
+        <!-- <ani ani_ID="10057"/>
+        <ani ani_ID="10063"/>
+        <ani ani_ID="10066"/>
+        <ani ani_ID="10058"/>
+        <ani ani_ID="10064"/>
+        <ani ani_ID="10067"/>
+        <ani ani_ID="10059"/> 
+        <ani ani_ID="10065"/>
+        <ani ani_ID="10069"/> -->
+        <ani ani_ID="10057"/>
+        <ani ani_ID="10058"/>
+        <ani ani_ID="10059"/>
+    </animations>
+     <animations default_time="100" animations_Id="514">
+        <ani ani_ID="10060"/>
+        <ani ani_ID="10061"/>
+        <ani ani_ID="10062"/>
+    </animations>
+</Canimation>

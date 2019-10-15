@@ -1,0 +1,24 @@
+<textures ID="60" filename="textures\\items.png" Red="255" Green=" 255" Bule="255">
+    <!-- Item_Rope -->
+    <sprites left="44" top="42" right="61" bottom="58" Sprites_ID="90001"/>
+    <!-- Item Heart -->
+    <sprites left="123" top="58" right="136" bottom="69" Sprites_ID="90002"/>
+    <!-- Dagger -->
+    <sprites left="176" top="40" right="193" bottom="48" Sprites_ID="90003"/>
+    <sprites left="176" top ="63" right="193" bottom="72" Sprites_ID="90004"/>
+</textures>
+
+<Canimation>
+    <animations default_time="100" animations_Id="801">
+        <ani ani_ID="90002"/>
+    </animations>
+    <animations default_time="100" animations_Id="802">
+        <ani ani_ID="90001"/>      
+    </animations>
+     <animations default_time="100" animations_Id="803">
+        <ani ani_ID="90003"/>
+    </animations>
+    <animations default_time="100" animations_Id="804">
+        <ani ani_ID="90004"/>
+    </animations>
+</Canimation>

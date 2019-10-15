@@ -1,0 +1,79 @@
+<textures ID="30" filename="textures\\simon-belmont.png" Red="255" Green=" 255" Bule="255">
+    <sprites left="152" top="40" right="192" bottom="72" Sprites_ID="10001"/>
+    <sprites left="192" top="40" right="232" bottom="72" Sprites_ID="10002"/>
+    <sprites left="232" top="40" right="272" bottom="72" Sprites_ID="10003"/>
+    <sprites left="112" top="40" right="152" bottom="72" Sprites_ID="10011"/>
+    <sprites left="72" top="40" right="112" bottom="72" Sprites_ID="10012"/>
+    <sprites left="32" top="40" right="72" bottom="72" Sprites_ID="10013"/>
+    <sprites left="273" top="36" right="311" bottom="68" Sprites_ID="10004"/>
+    <sprites left="-7" top="36" right="31" bottom="68" Sprites_ID="10005"/>
+    <sprites left="156" top="200" right="196" bottom="231" Sprites_ID="10031"/>
+    <sprites left="192" top="200" right="232" bottom="231" Sprites_ID="10032"/>
+    <sprites left="229" top="199" right="268" bottom="231" Sprites_ID="10033"/>
+    <sprites left="109" top="199" right="146" bottom="232" Sprites_ID="10034"/>
+    <sprites left="73" top="199" right="100" bottom="232" Sprites_ID="10035"/>
+    <sprites left="36" top="199" right="73" bottom="232" Sprites_ID="10036"/>
+    <sprites left="350" top="140" right="387" bottom="171" Sprites_ID="10041"/>
+    <sprites left="384" top="140" right="421" bottom="171" Sprites_ID="10042"/>
+    <sprites left="422" top="140" right="459" bottom="171" Sprites_ID="10043"/>
+    <sprites left="420" top="185" right="457" bottom="216" Sprites_ID="10044"/>
+    <sprites left="380" top="185" right="417" bottom="216" Sprites_ID="10045"/>
+    <sprites left="342" top="185" right="379" bottom="216" Sprites_ID="10046"/>
+    <!-- <sprites left="" top="" right="" bottom="" Sprites_ID=""/>
+    <sprites left="" top="" right="" bottom="" Sprites_ID=""/>
+    <sprites left="" top="" right="" bottom="" Sprites_ID=""/>
+    <sprites left="" top="" right="" bottom="" Sprites_ID=""/>
+    <sprites left="" top="" right="" bottom="" Sprites_ID=""/>
+    <sprites left="" top="" right="" bottom="" Sprites_ID=""/> -->
+</textures>
+<Canimation>
+    <animations default_time="100" animations_Id="400">
+        <ani ani_ID="10001"/>
+    </animations>
+    <animations default_time="100" animations_Id="401">
+        <ani ani_ID="10011"/>
+    </animations>
+    <animations default_time="100" animations_Id="402">
+        <ani ani_ID="10004"/>
+    </animations>
+    <animations default_time="100" animations_Id="403">
+        <ani ani_ID="10005"/>
+    </animations>
+     <animations default_time="100" animations_Id="500">
+        <ani ani_ID="10002"/>
+        <ani ani_ID="10001"/>
+        <ani ani_ID="10002"/>
+        <ani ani_ID="10003"/>
+    </animations>
+
+     <animations default_time="100" animations_Id="501">
+        <ani ani_ID="10012"/>
+        <ani ani_ID="10011"/>
+        <ani ani_ID="10012"/>
+        <ani ani_ID="10013"/>
+    </animations>
+    
+     <animations default_time="150" animations_Id="502">
+        <ani ani_ID="10031"/>
+        <ani ani_ID="10032"/>
+        <ani ani_ID="10033"/>
+    </animations>
+    
+     <animations default_time="150" animations_Id="503">
+        <ani ani_ID="10034"/>
+        <ani ani_ID="10035"/>
+        <ani ani_ID="10036"/>
+    </animations>
+    
+     <animations default_time="150" animations_Id="504">
+        <ani ani_ID="10041"/>
+        <ani ani_ID="10042"/>
+        <ani ani_ID="10043"/>
+    </animations>
+    
+     <animations default_time="150" animations_Id="505">
+        <ani ani_ID="10044"/>
+        <ani ani_ID="10045"/>
+        <ani ani_ID="10046"/>
+    </animations>
+</Canimation>
